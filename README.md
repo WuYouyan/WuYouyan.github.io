@@ -1,1 +1,1 @@
-My Blog created by the [guide](BY-guide.md) of BY
+My Blog is created with the [guide](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/README.md) of BY
